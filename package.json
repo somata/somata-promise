@@ -1,0 +1,23 @@
+{
+    "name": "somata-promise",
+    "version": "0.0.1",
+    "description": "Promise wrappers for somata clients and services",
+    "homepage": "http://github.com/somata/somata-promise",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/somata/somata-promise.git"
+    },
+    "author": {
+        "name": "Sean Robertson",
+        "url": "http://prontotype.us/"
+    },
+    "keywords": [
+        "somata"
+    ],
+    "main": "index.js",
+    "dependencies": {
+        "bluebird": "2.9.x",
+        "somata": "0.0.x"
+    }
+}
+
